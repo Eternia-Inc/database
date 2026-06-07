@@ -13,3 +13,23 @@ CHANNEL: #employee-chat
 2026-04-05 10:34 AM - Employee 1: unfortunately not
 2026-04-05 10:34 AM - Employee 1: they had masks and costumes on
 2026-04-05 10:34 AM - Employee 1: even our sensors couldnt detect dna
+2026-04-05 10:35 AM - Employee 2: [Replying to Employee 1] sh!$
+2026-04-05 10:35 AM - Employee 2: what do we do then?
+2026-04-05 10:35 AM - Employee 2: abandon the mission?
+2026-04-05 10:35 AM - Employee 2: whoever has it may have access to everything we own
+2026-04-05 10:35 AM - Employee 1: nah
+2026-04-05 10:35 AM - Employee 1: boss said we keep moving
+2026-04-05 10:35 AM - Employee 2: i'm worried. are we sure boss it right about this?
+2026-04-05 10:36 AM - Employee 1: he hasnt been wrong before :shrug:
+2026-04-05 10:36 AM - Employee 1: i think well be fine
+2026-04-05 10:36 AM - Employee 2: i really hope you're right
+-----------
+2026-04-05 3:46 PM - Employee 64: [@Employees] WHO BROKE THE FU###ING COFFEE MACHINE MAN
+2026-04-05 3:46 PM - Employee 30: wasn't me
+2026-04-05 3:46 PM - Employee 12: i'm not even at HQ rn
+2026-04-05 3:46 PM - Employee 56: was a ping really neccessary for this?
+2026-04-05 3:47 PM - Employee 80: shut up 56
+2026-04-05 3:46 PM - Employee 64: :mad:
+----------- 
+2026-04-05 6:00 PM - Coordinator 1: [@Employees]
+2026-04-05 6:00 PM - Coordinator 1: We all know you have heard about the recent robbery at the downtown bank. We are hard at work figuring out who committed this act and they will be caught eventually. You may have also heard that they gained access to our organization's servers. This is true. They were able to decrypt the password and gain access to our servers. We do not currently know what they have gained access to. We advise that you stay vigilant and aware. The next few days may be rough.
